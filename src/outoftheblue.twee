@@ -1,0 +1,21 @@
+:: StoryData
+{
+    "ifid": "269B31F1-0C1A-4393-931B-B3AA3E9F4985",
+    "format": "SugarCube",
+    "format-version": "2.36.1"
+}
+
+:: StoryTitle
+Out of the Blue
+
+:: Start
+You have applied to five graduate schools and are waiting to hear back from them. It has only been a week and the application cycles are still open. The chime on your email goes off and you feel your heartrate start to increase. Could this already be a response? That can't be a good thing. With shaky fingers, you open your computer... 
+
+[[look]] at the email.
+[[do not]] open the email
+
+:: look
+congrats! you got into FSU!
+
+:: do not 
+you delete the email 
